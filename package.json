@@ -1,0 +1,24 @@
+{
+  "name": "storage-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "storage.js",
+  "dependencies": {
+    "dropbox": "^9.2.0",
+    "eslint": "^7.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchitcop19/storage-tracker.git"
+  },
+  "author": "Sanchit Batra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchitcop19/storage-tracker/issues"
+  },
+  "homepage": "https://github.com/sanchitcop19/storage-tracker#readme"
+}
